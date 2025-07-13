@@ -1,6 +1,8 @@
 To use Intelligent chat analyzer-
 
-Just run the code
-Drop your .txt chat file
-Get the analysis
+1> Just run the code
+
+2> Drop your .txt chat file
+
+3> Get the analysis
 
